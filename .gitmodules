@@ -1,0 +1,3 @@
+[submodule "Clima"]
+	path = Clima
+	url = https://github.com/joedson7/Clima
