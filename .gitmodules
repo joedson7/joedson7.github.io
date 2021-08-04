@@ -1,3 +1,6 @@
 [submodule "Clima"]
 	path = Clima
 	url = https://github.com/joedson7/Clima
+[submodule "ArrastaSolta"]
+	path = ArrastaSolta
+	url = https://github.com/joedson7/ArrastaSolta
